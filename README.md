@@ -4,4 +4,4 @@ Repositório com resoluções de provas e exercícios desenvolvidos durante a gr
 
 ## 💡 Disciplinas
 - **AEDS I:** Resoluções em C e C++
-- **Fundamentos de Engenharia de Software:** Questões teóricas
+
